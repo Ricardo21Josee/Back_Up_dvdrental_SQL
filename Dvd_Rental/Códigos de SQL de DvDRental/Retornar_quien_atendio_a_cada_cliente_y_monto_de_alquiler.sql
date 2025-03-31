@@ -1,4 +1,5 @@
 /*Retornar quiena atendio a cada cliente y cuanto fue el monto de su alquiler*/
+/*Return who served each client and how much their rent was*/
 
 SELECT 
 	customer.customer_id AS ID_Cliente,
