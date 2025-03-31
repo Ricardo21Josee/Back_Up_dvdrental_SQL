@@ -1,4 +1,5 @@
 /*Retorna la cantidad de pagos hechos por cada monto por cada cliente*/
+/*Returns the number of payments made for each amount by each customer*/
 
 SELECT 
     p.amount,
