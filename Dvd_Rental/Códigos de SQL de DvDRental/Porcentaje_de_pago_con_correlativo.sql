@@ -1,5 +1,5 @@
-/*Retorna el "customer_id", la fecha y el porcentaje acumulado que representa cada pago 
-del total de pagos hecho por el cliente.*/
+/*Retorna el "customer_id", la fecha y el porcentaje acumulado que representa cada pago del total de pagos hecho por el cliente.*/
+/*Returns the "customer_id", the date, and the cumulative percentage that each payment represents of the total payments made by the customer.*/
 
 SELECT 
     customer_id,
