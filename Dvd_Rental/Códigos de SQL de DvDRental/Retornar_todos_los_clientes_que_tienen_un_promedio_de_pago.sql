@@ -1,4 +1,5 @@
 /*Retorna todos los clientes que tienen un promedio de pago mayor a $5*/
+/*Returns all customers who have an average payment greater than $5*/
 
 SELECT 
     c.first_name,
