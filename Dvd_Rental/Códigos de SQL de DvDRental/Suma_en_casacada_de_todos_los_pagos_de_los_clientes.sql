@@ -1,4 +1,5 @@
 /*Suma en cascada de todos los pagos que han hecho los clientes*/
+/*Cascade sum of all payments made by customers*/
 
 SELECT 
 	customer_id,
