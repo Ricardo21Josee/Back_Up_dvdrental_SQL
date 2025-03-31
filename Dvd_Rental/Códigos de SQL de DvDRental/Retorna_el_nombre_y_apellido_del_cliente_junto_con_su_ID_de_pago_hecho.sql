@@ -1,4 +1,5 @@
 /*Esta consulta devuelve el nombre y apellido junto con los ID de pagos que han hehco los clientes*/
+/*This query returns the first and last name along with the payment IDs that customers have made*/
 
 SELECT payment.payment_id,
 	   payment.customer_id,
