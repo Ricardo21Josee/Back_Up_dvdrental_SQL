@@ -1,4 +1,5 @@
 /*Para cada alquiler encuentra el nombre del cliente que alquilo y el empleado que hizo la transaccion*/ 
+/*For each rental find the name of the customer who rented and the employee who made the transaction*/
 
 SELECT 
     customer.customer_id AS id_cliente,
