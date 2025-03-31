@@ -1,4 +1,5 @@
 /*Consulta para saber cuales peliculas no estan en el inventario*/
+/*Check to see which movies aren't in the inventory*/
 
 SELECT DISTINCT
     film.film_id,
