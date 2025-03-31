@@ -1,4 +1,5 @@
 /*Retorna todos los alquileres que no han sido pagados*/
+/*Returns all unpaid rents*/
 
 SELECT 
 	*
