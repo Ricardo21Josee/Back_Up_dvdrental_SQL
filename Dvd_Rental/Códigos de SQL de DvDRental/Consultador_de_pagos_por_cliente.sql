@@ -1,4 +1,5 @@
 /*Codigo para consultar el ID de los pagos hechos por el cliente*/
+/*Code to consult the ID of the payments made by the client*/
 
 SELECT
 	payment.payment_id,
