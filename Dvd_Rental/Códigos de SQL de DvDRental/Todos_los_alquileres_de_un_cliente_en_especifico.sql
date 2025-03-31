@@ -1,4 +1,5 @@
 /*Encuentra todos los alquileres hehcos por Barbara Jones*/
+/*Find all rentals made by Barbara Jones*/
 
 SELECT 
 	*
