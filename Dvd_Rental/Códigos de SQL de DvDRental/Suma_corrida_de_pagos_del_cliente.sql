@@ -1,4 +1,5 @@
 /*Suma corrida de pagos del cliente*/
+/*Running sum of customer payments*/
 
 SELECT 
     customer_id,
