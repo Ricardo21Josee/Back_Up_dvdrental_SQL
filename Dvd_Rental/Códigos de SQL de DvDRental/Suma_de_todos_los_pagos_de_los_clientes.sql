@@ -1,4 +1,5 @@
 /*Retornar la suma de todos los pagos por cliente que han pagado más de $7.99 alguna vez*/
+/*Return the sum of all payments per customer who have ever paid more than $7.99*/
 
 SELECT 
 	c.first_name,
